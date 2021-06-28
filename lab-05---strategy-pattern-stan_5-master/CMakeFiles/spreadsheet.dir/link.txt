@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-6/root/usr/bin/c++    -rdynamic CMakeFiles/spreadsheet.dir/main.cpp.o CMakeFiles/spreadsheet.dir/spreadsheet.cpp.o  -o spreadsheet 
